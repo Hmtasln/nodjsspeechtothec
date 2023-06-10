@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hikayelerapi",
+  "private_key_id": "7d00ec3b2cb674bd6dc6c05d9ac660c766ac567b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCQ6plW5DvwPM5g\n8korF91SWmMm7Zg7zs0bEYwKT3/7bZGN5ipVYHSJpdyWnfrI12NJLunM9VB2JauD\nCQXxBPXW4Db0/oTr2UjAT9tFLgV8jHBvsGCKgWyN4FLiCk9yOjs23LXDSVuXhbfj\nZLFYinHK8kf4hTJPbr8OuTh1bcrmZpcknV+SMPkn2yVZfXvURhAjYaoSBZDheo7x\nRz+U2Zz6KcB0LtforN4CxGEEfmHEXKfAVdQ4/MpZd6/uQA2wHD34sSjPUOaRFCNY\nj/UgWC4V/WBG8CcbMhScyVxzPjPol6XJuoCZCzFg+RyPUeIrIrNy98gBut54aR6H\nhrG4s4hnAgMBAAECggEACEfXfj8UFmIAcEq3++a6XKfR4u9lqQPj9XLXETRsvZBh\nEP4rbMMntZaBgyZre57PILyVBdiorITyMXkfr/TWxVynge//PBN86ZGb7Rk4SAnQ\nV5l4/WvFflqTRzD2oYd79be+jSD7zQM04uyl3kd+7Bf/Dnox9JcBRNVG9B1+IBR7\nn3p+FtS/T7STW7ONu3kjxzvJHDPV1E4EWkeEEPMoSQ8NnnN+tAuThFXCIkFgkICM\neysw4vDbSsOcUnE9YAdISHQ/ARFNni9OmKuhxjVVgV6DpINtDP7tduqq1z2bbdTF\nvo0F2Z5ly07O0fHcJdI5uAttQUOFu8RYTom2v8qiYQKBgQDEFkSQBhL7ZELIKA8u\ncl7vvxQttmOkNHEGol6SxJlcTCK5varap6lj0ItOv8dfikBW6zPIgN697oDe5jrS\nvahmafz26jfhZk8duAAkplp6hp2NUGmV/KsTsv0FW+j7qMkK829XWZsJuMFjR4cT\n83SoinvhyG/jNIU27s1bvT0q4QKBgQC9MdF8XT6CiRMaAnYrFhOcvMqbs8PIo+Mr\n12Clw2UvhJD0cuv0oFiyPyt+EpJJ195KcuAS41mzQXEKMz44tP8ptgVRvbNsW80G\nFaAiM5Jqz2prUI1dSMadtaQpHQWUQXrBTVk6Oc3fSHioZpxTQhRRsFDJ6M1EHjq9\nnp/XJlUkRwKBgQCwMK4El2ChAFK9VLlna58AXzn7ZSIdHn3cjzLZP8vpUgP1z4Xg\nmLwskutJpCq6Hxh2wTozVBBQqyiioE6Eo6PX+i4xkv0JDAvU0UtXox4zcBfLLVDi\nUzlJJxAQq6gp0Fxs+ZW28C3Ny3QBB/lIpP3SnzR3CMn4Zm24kVR2tRBsIQKBgEWH\ninpO9ksYvyle4Dija1+9ziP8o6YX/MO+6mjg703QRUlg9rA3QYF4T66MerCiobHw\nl8K5RNzo3vclr+c9NU0J9Nh+g/L9pdJnnisTkuqoAW8g8mLm/P82ovbtEIDUs51Y\npMMOPUeipZ0V4LuEXF1NE9OwN8eh6GqJYiq6jq2/AoGBAJ39oR+0RIDqDCy23KYC\nznM39LDhCxxwFutc7vYDFVnyv92KdDOzzvXrEEG8jiNjlxBlmImW+6HV5URAvbmQ\nQLvdD8QRVBJe13YpYfmxPOTx9k01/joL7BkwTejhBsVoE9gshP19GzUl8xCJqnZe\nEjd02W49iMarz0tR0Wb5P6CL\n-----END PRIVATE KEY-----\n",
+  "client_email": "sestextcevirme@hikayelerapi.iam.gserviceaccount.com",
+  "client_id": "113241374194813864591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sestextcevirme%40hikayelerapi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
